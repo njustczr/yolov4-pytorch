@@ -1,2 +1,2 @@
 # yolov4-pytorch  
-to do:the training result on voc dataset  
+to do:to train yolov4 object detection on voc dataset  
